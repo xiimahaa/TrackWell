@@ -1,6 +1,18 @@
 # TrackWell
 The Health Tracker System is a Java-based desktop app for monitoring health activities like steps, calories, sleep, and water, with custom notifications. It uses object-oriented principles, a Java Swing GUI, JDBC for data storage, and a modular design for team development, showcasing OOP2 concepts in a user-friendly, maintainable solution.
 
+## 📌 Key Features:
+- User-friendly Java Swing GUI.
+- Real-time synchronization with SQL database using JDBC.
+- Automated health notifications.
+- Modular OOP-based architecture.
+- Login, Registration, Admin, and User Dashboard interfaces.
+
+## 💾 Technologies:
+- Java (Swing)
+- JDBC (SQL Database)
+- Object-Oriented Programming (OOP)
+
 ## 📂 Project Structure
 ```plaintext
 TrackWell-Health-Tracker/
@@ -42,16 +54,6 @@ TrackWell-Health-Tracker/
 │
 ├── README.md                          # Project documentation (this file)
 
-## 📌 Key Features:
-- User-friendly Java Swing GUI.
-- Real-time synchronization with SQL database using JDBC.
-- Automated health notifications.
-- Modular OOP-based architecture.
-- Login, Registration, Admin, and User Dashboard interfaces.
 
-## 💾 Technologies:
-- Java (Swing)
-- JDBC (SQL Database)
-- Object-Oriented Programming (OOP)
 
 
