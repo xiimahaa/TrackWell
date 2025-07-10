@@ -49,8 +49,8 @@ TrackWell-Health-Tracker/
 │   ├── logo.png
 │   └── logo1.png
 │
-├── sql/                               # SQL scripts for database setup
-│   └── trackwell_db.sql
+├── Database/                               # SQL scripts for database setup
+│   └── database.sql
 │
 ├── README.md                          # Project documentation (this file)
 
