@@ -7,7 +7,7 @@ The Health Tracker System is a Java-based desktop app for monitoring health acti
 - Automated health notifications.
 - Modular OOP-based architecture.
 - Login, Registration, Admin, and User Dashboard interfaces.
-
+- 
 ## 💾 Technologies:
 - Java (Swing)
 - JDBC (SQL Database)
